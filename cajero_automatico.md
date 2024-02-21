@@ -1,5 +1,7 @@
 # Caso de uso cajero automático
 
+![Diagrama](https://github.com/nicholelouis/ETS/blob/main/img/gestion_de_un_cajero.png?raw=true)
+
 ### Actores
 
 | Actor: Administrador                   |                                 |
@@ -84,5 +86,5 @@
 | **Post-condiciones:**            | Se muestra el saldo actualizado al cliente. |
 | **Requerimientos:**              | -                               |
 | **Notas:**                       | El sistema debe mostrar el saldo de forma clara y legible para el cliente. |
-| **Autor:**
+| **Autor:** Nichole A Louis
 
