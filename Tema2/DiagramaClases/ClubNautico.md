@@ -1,7 +1,5 @@
 # Diagrama de clases Club Nautico
 
-## Desglose
-
 ### Clases y Atributos:
 - Socio:
 Atributos: Nombre, Dirección, DNI, Teléfono, Fecha de ingreso en el club.
