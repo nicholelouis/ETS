@@ -1,7 +1,5 @@
 # Diagrama de clases Club Nautico
 
-![DiagramaClases](https://github.com/nicholelouis/ETS/blob/main/Tema2/DiagramaClases/img/club_nautico.drawio.png?raw=true)
-
 ## Desglose
 
 ### Clases y Atributos:
@@ -28,3 +26,7 @@ Atributos: Número de barcos de los que se encarga en cada zona.
 - Empleado y AsignaciónEmpleadoZona: Un empleado está asignado a varias zonas, y en una zona puede haber más de un empleado. El número de barcos de los que se encarga en cada zona es de interés.
 
 Este diagrama de clases refleja las relaciones entre las entidades del club náutico, como socios, embarcaciones, amarres, zonas y empleados. Cada clase tiene atributos específicos que representan la información relevante de cada entidad, y las relaciones capturan las interacciones y conexiones entre ellas.
+
+### Diagrama
+
+![DiagramaClases](https://github.com/nicholelouis/ETS/blob/main/Tema2/DiagramaClases/img/club_nautico.drawio.png?raw=true)
